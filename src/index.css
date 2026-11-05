@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@import '@heroui/styles';
+
+:root {
+  --accent: #6553E8;
+}
